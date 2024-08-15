@@ -1,0 +1,61 @@
+
+.bg-color-orange-light{
+    background-color: #fce2d6;
+}
+
+.primary-colors-orange-font, .btn {
+    color: #fa7436;
+}
+
+.primary-colors-orange-bg, .btn-bg, .bg-orange{
+    background-color: #fa7436;
+}
+
+.primary-colors-black-color, .text-color-black{
+    color: #222222;
+}
+
+.primary-colors-black-bg{
+    background-color: #222222;
+}
+
+
+.text-color-dark-gray{
+    color: #444444;
+}
+
+.text-color-light-gray{
+    color: #666666;
+}
+
+.bg-white-light{
+    background-color: #fefcfb;
+}
+
+.bg-white-dark{
+    background-color: #f7fbfc;
+}
+
+
+.btn-text-color{
+    color: #ffffff;
+}
+
+.bg-btn-color-fullWhite{
+    background-color: #ffffff;
+}
+.bg-blue-dim-color{
+    background-color: #f7f8fc;
+}
+.bg-travel-menu-box{
+    background-color: #fff8f5;
+}
+
+.text-price-color-min{
+    color: #999999;
+
+}
+
+.text-full-black-color{
+    color:#000000;
+}
