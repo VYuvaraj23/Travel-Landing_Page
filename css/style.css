@@ -41,6 +41,7 @@ h3, .h3{
     .center-nav{
         display: flex;
         gap: 40px;
+        list-style-type: none;
     }
     
     .login-btn{
@@ -429,6 +430,7 @@ h3, .h3{
             .content21{
                 position: relative;
                 top: -20px;
+                
             }
             .content22{
                 position: relative;
